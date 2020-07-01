@@ -1,0 +1,3 @@
+include ':app'
+include ':moolacalendar'
+rootProject.name = "DemoCalendar"
